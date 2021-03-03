@@ -1,7 +1,12 @@
 ---
-title: Hello World
+title: Main product
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: Main description
+featuredImage: salty_egg.jpg
+hero: true
+heroTitleMain: Kubek jak się patrzy
+heroTitleSub: PIĘKNY TAKI FAJANSOWY
+heroImage: main-product-bg.jpg
 ---
 
 This is my first post on my new fake blog! How exciting!
